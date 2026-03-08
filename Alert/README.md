@@ -1,6 +1,6 @@
 # Disclaimer: This writeup includes user flag only. 
 
-## HTB Alert Writeup: Exploiting LFI via XSS
+## HTB Alert Writeup
 The path involves discovering a Cross-Site Scripting (XSS) vulnerability that allows for Local File Inclusion (LFI) to extract sensitive configuration files, ultimately leading to credential theft.
 
 ### 1. Enumeration
