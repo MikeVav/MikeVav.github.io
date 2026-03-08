@@ -7,32 +7,38 @@ The table below tracks my progress and methodology for retired HTB machines.
 | Machine      | OS             | HTB Rating     | Status |
 | :---         |     :---       |          :---  |         :---    |
 | Cap   | Linux     | Easy     |Root flag|
-| Keeper     | Linux      | Easy     |User flag|
+| Keeper     | Linux      | Easy     |Root flag|
 | Sau |Linux      |Easy     |Root flag|
-| Broker |Linux      |Easy     |User flag|
+| Broker |Linux      |Easy     |Root flag|
 | Bashed |Linux      |Easy     |User flag|
-| Return|Windows|Easy     |User flag|
+| Return|Windows|Easy     |Root flag|
+|Editor|Linux|Easy|Root flag|
+|Cicada|Windows|Easy|Root flag|
 | Blocky|Linux      |Easy     |Root flag|
-| BoardLight|Linux      |Easy     |User flag|
+| BoardLight|Linux      |Easy     |Root flag|
 | CozyHosting|Linux      |Easy     |User flag|
 | Headless|Linux      |Easy     |User flag|
 | DevVortex|Linux      |Easy     |User flag|
-| Busqueda|Linux      |Easy     |User flag|
-| Dog|Linux      |Easy     |User flag|
+| Busqueda|Linux      |Easy     |Root flag|
+| Dog|Linux      |Easy     |Root flag|
 | PermX|Linux      |Easy     |User flag|
-| Titanic|Linux      |Easy     |User flag|
+|Timelapse|Windows|Easy|Root flag|
+| Titanic|Linux      |Easy     |Root flag|
 | Precious|Linux      |Easy     |User flag|
+|Servmon|Windows|Easy|User flag|
+|Access|Windows|Easy|Root flag|
+|Active|Windows|Easy|Root flag|
 | Bank|Linux      |Easy     | Root flag|
 | Twomillion|Linux      |Easy     |User flag|
-| LinkVortex|Linux      |Easy     |User flag|
+| LinkVortex|Linux      |Easy     |Root flag|
 | Alert|Linux      |Easy     |User flag|
-| Builder|Linux      | Medium|User flag|
+| Builder|Linux      | Medium|Root flag|
 | Editorial|Linux      |Easy     |User flag|
 | Usage|Linux      |Easy     |User flag|
 | Cronos|Linux      | Medium|User flag|
 | BountyHunter|Linux      | Easy     |User flag|
 | Goodgames|Linux      |Easy     |User flag|
-| Help|Linux      |Easy     |User flag|
+| Help|Linux      |Easy     |Root flag|
 | Bastard|Windows| Medium|User flag|
 | Soccer|Linux      |Easy     |User flag|
 | Forge|Linux      |Medium|User flag|
