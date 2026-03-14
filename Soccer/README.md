@@ -1,5 +1,3 @@
-Here's a professional write-up for the HTB box "Soccer":
-
 # Soccer - HTB Write-up
 
 ## Overview
