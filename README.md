@@ -40,9 +40,14 @@ The table below tracks my progress and methodology for retired HTB machines.
 | Goodgames|Linux      |Easy     |User flag|
 | Help|Linux      |Easy     |Root flag|
 | Bastard|Windows| Medium|User flag|
-| Soccer|Linux      |Easy     |User flag|
+|Forest|Windows|Easy|Root flag|
+|Sauna|Windows|Easy|Root flag|
+|Fluffy|Windows|Easy|Root flag|
+| Soccer|Linux      |Easy     |Root flag|
+|Jeeves|Windows|Medium|Root flag|
 | Forge|Linux      |Medium|User flag|
 | Shibboleth|Linux      |Easy     |User flag|
+|Administrator|Windows|Medium|Root flag|
 | FriendZone|Linux      |Easy     |User flag|
 | Opensource|Linux      |Easy     |RCE|
 | Nineveh|Linux      | Medium| Root flag|
