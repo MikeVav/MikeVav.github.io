@@ -74,7 +74,8 @@ The page reflected input in the response. I intercepted the request and found th
 ![alt text](image-7.png)
 
 ## XXE Vulnerability
-I tested for XML External Entity (XXE) injection:
+I tested for XML External Entity (XXE) injection.
+
 ![alt text](image-8.png)
 
 Encode base64:
