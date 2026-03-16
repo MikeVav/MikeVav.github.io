@@ -97,6 +97,7 @@ I crafted a payload to read sensitive files:
 
 I wanted to read /var/www/html/db.php.
 ![alt text](image-11.png)
+
 Then URL-encoded it and sent the request.
 
 The response contained Base64-encoded source code:
