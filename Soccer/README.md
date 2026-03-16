@@ -7,7 +7,7 @@ Reconnaissance
 
 ### Port Scanning
 
-First, I enumerated open ports on the target:
+First, I enumerated open ports on the target: 
 
 ### Full port scan
 ```bash
