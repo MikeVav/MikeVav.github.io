@@ -282,3 +282,4 @@ The exploit executed successfully, spawning a root shell.
 
 <img width="363" height="179" alt="image" src="https://github.com/user-attachments/assets/1ec219a7-4be1-40b2-b3e3-7e5c8015bf8b" />
 
+Published by Michael Vavenkov
