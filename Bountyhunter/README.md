@@ -200,4 +200,4 @@ When prompted, I pasted the content of my exploit.md file. The `eval()` function
 
 ![alt text](image-17.png)
 
-
+Published by Michael Vavenkov
